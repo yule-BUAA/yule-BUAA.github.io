@@ -8,77 +8,154 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year computer science Ph.D. student in the School of Computer Science and Engineering at Beihang University. 
+
+Brief Bio
+======
+I am currently a fifth-year computer science Ph.D. student in the School of Computer Science and Engineering at Beihang University. 
 I received the B.S. degree in the School of Computer Science and Engineering at Beihang University, Beijing, China, in 2019. 
 
-My research interests include spatial/temporal data mining, user behavior modeling, and graph neural networks.
+My research focuses on spatio-temporal data representation learning. 
+I have published 14 peer-reviewed papers in top venues (e.g., NeurIPS, KDD, WWW, AAAI, IJCAI, IEEE TKDE) on topics like graph neural networks, user behavior modeling, and traffic forecasting.
+I have also served as a PC member for conferences like AAAI and LOG as well as a reviewer for journals like TOIS, TKDD, TNNLS, and Neural Networks.
+
 
 Educations
 ======
 * *Sept. 2019 - now.* Ph.D. student, School of Computer Science and Engineering, Beihang University, Beijing, China
 * *Sept. 2015 - Jun. 2019* B.S., School of Computer Science and Engineering, Beihang University, Beijing, China
 
+
+News
+======
+**[09/2023]** One paper was accepted by NeurIPS 2023.\
+**[08/2023]** Two papers were accepted by IEEE TKDE.\
+**[04/2023]** One paper was accepted by IJCAI 2023.\
+**[12/2022]** One paper was accepted by IEEE TKDE.\
+**[11/2022]** One paper was accepted by AAAI 2023.\
+**[03/2022]** One paper was accepted by IEEE TKDE.\
+**[01/2022]** One paper was accepted by WWW 2022.\
+**[01/2022]** One paper was accepted by Knowledge-Based Systems.\
+**[04/2021]** One paper was accepted by Knowledge-Based Systems.\
+**[09/2020]** One paper was accepted by Neurocomputing.\
+**[05/2020]** One paper was accepted by KDD 2020.
+
+
 Publications
 ======
-## Temporal Data Mining & User Behavior Modeling
-* ***Le Yu***, Zihang Liu, Tongyu Zhu, Leilei Sun, Bowen Du and Weifeng Lv. 
+### 2023
+
+[C1] ***Le Yu***, Leilei Sun, Bowen Du, Weifeng Lv. 
+  **Towards Better Dynamic Graph Learning: New Architecture and Unified Library**.
+  NeurIPS 2023 (Poster).
+  [Paper](https://arxiv.org/abs/2303.13047) 
+  [Code](https://github.com/yule-BUAA/DyGLib)
+
+[C2] ***Le Yu***, Zihang Liu, Tongyu Zhu, Leilei Sun, Bowen Du, Weifeng Lv. 
   **Predicting Temporal Sets with Simplified Fully Connected Networks**.
-  Thirty-Seventh AAAI Conference on Artificial Intelligence **(AAAI 2023, Oral)**.
-  [Paper]() 
+  AAAI 2023 (Oral).
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25609) 
   [Code](https://github.com/yule-BUAA/SFCNTSP)
-  
-* ***Le Yu***, Guanghui Wu, Leilei Sun, Bowen Du and Weifeng Lv.
+
+[C3] Xiaodong Lu, Shuo Ji, ***Le Yu***, Leilei Sun, Bowen Du, Tongyu Zhu. 
+  **Continuous-Time Graph Learning for Cascade Popularity Prediction**.
+  IJCAI 2023.
+  [Paper](https://www.ijcai.org/proceedings/2023/0247) 
+  [Code](https://github.com/lxd99/CTCP)
+
+[J1] ***Le Yu***, Zihang Liu, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv.
+  **Continuous-Time User Preference Modelling for Temporal Sets Prediction**.
+  IEEE TKDE.
+  [Paper](https://ieeexplore.ieee.org/document/10234655) 
+  [Code](https://github.com/yule-BUAA/CTTSP)
+
+[J2] Tao Zou, ***Le Yu***, Leilei Sun, Bowen Du, Deqing Wang, Fuzhen Zhuang.
+  **Event-based Dynamic Graph Representation Learning for Patent Application Trend Prediction**.
+  IEEE TKDE.
+  [Paper](https://ieeexplore.ieee.org/document/10243551) 
+  [Code](https://github.com/Hope-Rita/EDGPAT)
+
+[arXiv] ***Le Yu***.
+  **An Empirical Evaluation of Temporal Graph Benchmark**.
+  arXiv 2023.
+  [Paper](https://arxiv.org/abs/2307.12510) 
+  [Code](https://github.com/yule-BUAA/DyGLib_TGB)
+
+[arXiv] Tao Zou, ***Le Yu***, Leilei Sun, Bowen Du, Deqing Wang, Fuzhen Zhuang.
+  **Adaptive Taxonomy Learning and Historical Patterns Modelling for Patent Classification**.
+  arXiv 2023.
+  [Paper](https://arxiv.org/abs/2308.05385) 
+  [Code](https://github.com/hope-rita/patcls)
+
+[arXiv] Zihang Liu, ***Le Yu***, Tongyu Zhu, Leiei Sun.
+  **A Simple Framework for Multi-mode Spatial-Temporal Data Modeling**.
+  arXiv 2023.
+  [Paper](https://arxiv.org/abs/2308.11204) 
+  [Code](https://github.com/lzhmarkk/simmst)
+
+### 2022
+[C1] ***Le Yu***, Guanghui Wu, Leilei Sun, Bowen Du, Weifeng Lv.
   **Element-guided Temporal Graph Representation Learning for Temporal Sets Prediction**.
   Proceedings of the ACM Web Conference 2022 **(WWW 2022)**.
   [Paper](https://dl.acm.org/doi/10.1145/3485447.3512064) 
   [Code](https://github.com/yule-BUAA/ETGNN)
- 
-* Nannan Shi, ***Le Yu***, Leilei Sun, Lihua Wang, Chunming Lin and Ruixing Zhang.
-  **Deep Heterogeneous Network for Temporal Set Prediction**.
-  Knowledge-Based Systems **(KBS 2021)**.
-  [Paper](https://www.sciencedirect.com/science/article/pii/S0950705121003026) 
-  [Code](https://github.com/xinlingdedeng/DHNTSP)
   
-* ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong and Weifeng Lv. 
-  **Predicting Temporal Sets with Deep Neural Networks**. 
-  Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining **(KDD 2020)**.
-  [Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403152) 
-  [Code](https://github.com/yule-BUAA/DNNTSP)
-  
-## Graph Neural Networks
-* ***Le Yu***, Leilei Sun, Bowen Du and Weifeng Lv. 
-  **Towards Better Dynamic Graph Learning: New Architecture and Unified Library**.
-  **(arXiv 2023)**.
-  [Paper](https://arxiv.org/abs/2303.13047) 
-  [Code](https://github.com/yule-BUAA/DyGLib)  
-  
-* ***Le Yu***, Leilei Sun, Bowen Du, Tongyu Zhu and Weifeng Lv. 
+[J1] ***Le Yu***, Leilei Sun, Bowen Du, Tongyu Zhu, Weifeng Lv. 
   **Label-Enhanced Graph Neural Network for Semi-supervised Node Classification**. 
-  IEEE Transactions on Knowledge and Data Engineering **(TKDE 2022)**.
+  IEEE TKDE.
   [Paper](https://ieeexplore.ieee.org/document/9997579) 
   [Code](https://github.com/yule-BUAA/LEGNN)
 
-* ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv and Hui Xiong. 
+[J2] ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv, Hui Xiong. 
   **Heterogeneous Graph Representation Learning with Relation Awareness**.
-  IEEE Transactions on Knowledge and Data Engineering **(TKDE 2022)**.
+  IEEE TKDE.
   [Paper](https://ieeexplore.ieee.org/document/9737399) 
   [Code](https://github.com/yule-BUAA/R-HGNN)  
+  
+[J3] Xuxiang Ta, Zihan Liu, Xiao Hu, ***Le Yu***, Leilei Sun, Bowen Du.
+  **Adaptive Spatio-temporal Graph Neural Network for traffic forecasting**.
+  Knowledge-Based Systems.
+  [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122000508) 
+  [Code](https://github.com/LiuZH-19/Ada-STNet)  
+  
+### 2021
+[J1] Nannan Shi, ***Le Yu***, Leilei Sun, Lihua Wang, Chunming Lin, Ruixing Zhang.
+  **Deep Heterogeneous Network for Temporal Set Prediction**.
+  Knowledge-Based Systems.
+  [Paper](https://www.sciencedirect.com/science/article/pii/S0950705121003026) 
+  [Code](https://github.com/xinlingdedeng/DHNTSP)
+  
+### 2020
+[C1] ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv. 
+  **Predicting Temporal Sets with Deep Neural Networks**. 
+  (KDD 2020).
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403152) 
+  [Code](https://github.com/yule-BUAA/DNNTSP)
 
-* ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv and Hui Xiong. 
+[J1] ***Le Yu***, Bowen Du, Xiao Hu, Leilei Sun, Liangzhe Han, Weifeng Lv. 
+  **Deep Spatio-temporal Graph Convolutional Network for Traffic Accident Prediction**.
+  Neurocomputing.
+  [Paper](https://www.sciencedirect.com/science/article/pii/S092523122031451X) 
+  [Code](https://github.com/yule-BUAA/DSTGCN)  
+
+[arXiv] ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv, Hui Xiong. 
   **Hybrid Micro/Macro Level Convolution for Heterogeneous Graph Learning**.
   **(arXiv 2020)**.
   [Paper](https://arxiv.org/abs/2012.14722) 
   [Code](https://github.com/yule-BUAA/HGConv)  
-  
-## Graph-based Applications
-* ***Le Yu***, Bowen Du, Xiao Hu, Leilei Sun, Liangzhe Han and Weifeng Lv. 
-  **Deep Spatio-temporal Graph Convolutional Network for Traffic Accident Prediction**.
-  Neurocomputing **(Neurocomputing 2021)**.
-  [Paper](https://www.sciencedirect.com/science/article/pii/S092523122031451X) 
-  [Code](https://github.com/yule-BUAA/DSTGCN)  
 
-* Xuxiang Ta, Zihan Liu, Xiao Hu, ***Le Yu***, Leilei Sun and Bowen Du.
-  **Adaptive Spatio-temporal Graph Neural Network for traffic forecasting**.
-  Knowledge-Based Systems **(KBS 2022)**.
-  [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122000508) 
-  [Code](https://github.com/LiuZH-19/Ada-STNet)  
+
+Honors Awarded
+======
+* 2023 National Scholarship for Graduate students
+* 2023 Huawei Scholarship
+* 2020 National Scholarship for Graduate students
+* 2019 Graduate Freshman Scholarship
+
+Academic Services
+======
+* **PC member for Conferences:**\
+  AAAI 2023, 2024; 
+  LOG 2022, 2023
+  
+* **Reviewer for Journals:**\
+  ACM TOIS, ACM TKDD, IEEE TNNLS, Neural Networks
