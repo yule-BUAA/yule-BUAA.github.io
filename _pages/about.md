@@ -112,7 +112,7 @@ Publications
   [Code](https://github.com/yule-BUAA/R-HGNN)  
   
 [J3] Xuxiang Ta, Zihan Liu, Xiao Hu, ***Le Yu***, Leilei Sun, Bowen Du.
-  **Adaptive Spatio-temporal Graph Neural Network for traffic forecasting**.
+  **Adaptive Spatio-temporal Graph Neural Network for Traffic Forecasting**.
   Knowledge-Based Systems.
   [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122000508) 
   [Code](https://github.com/LiuZH-19/Ada-STNet)  
