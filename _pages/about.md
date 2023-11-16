@@ -11,52 +11,57 @@ redirect_from:
 
 Brief Bio
 ======
-I am currently a fifth-year computer science Ph.D. student in the School of Computer Science and Engineering at Beihang University. 
-I received the B.S. degree in the School of Computer Science and Engineering at Beihang University, Beijing, China, in 2019. 
+I am currently a fifth-year computer science Ph.D. student in the School of Computer Science and Engineering at Beihang University, 
+supervised by [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm). 
+I received the B.S. degree in the School of Computer Science and Engineering at Beihang University in 2019. 
 
-My research focuses on spatio-temporal data representation learning. 
-I have published 14 peer-reviewed papers in top venues (e.g., NeurIPS, KDD, WWW, AAAI, IJCAI, IEEE TKDE) on topics like graph neural networks, user behavior modeling, and traffic forecasting.
-I have also served as a PC member for conferences like AAAI and LOG as well as a reviewer for journals like TOIS, TKDD, TNNLS, and Neural Networks.
-
-
-Educations
-======
-* *Sept. 2019 - now.* Ph.D. student, School of Computer Science and Engineering, Beihang University, Beijing, China
-* *Sept. 2015 - Jun. 2019* B.S., School of Computer Science and Engineering, Beihang University, Beijing, China
+Spatio-temporal graphs can abstractly represent most things in reality. 
+I devote myself to designing general neural networks for learning on spatio-temporal graphs, and using the learned representations to empower various scenarios.
+My research interests include (spatio-temporal) graph neural networks, language models, recommendation systems, traffic forecasting, et al.
+I am strongly self-motivated and aim to pursue cutting-edge AI research.
+I have published several peer-reviewed papers in top venues such as NeurIPS, KDD, WWW, IEEE TKDE, EMNLP, AAAI, and IJCAI.
+I have also served as a PC member/reviewer for conferences/journals like AAAI, LOG, TOIS, TKDD, TNNLS, and Neural Networks.
 
 
 News
 ======
-**[09/2023]** One paper was accepted by NeurIPS 2023.\
-**[08/2023]** Two papers were accepted by IEEE TKDE.\
-**[04/2023]** One paper was accepted by IJCAI 2023.\
-**[12/2022]** One paper was accepted by IEEE TKDE.\
-**[11/2022]** One paper was accepted by AAAI 2023.\
-**[03/2022]** One paper was accepted by IEEE TKDE.\
-**[01/2022]** One paper was accepted by WWW 2022.\
-**[01/2022]** One paper was accepted by Knowledge-Based Systems.\
-**[04/2021]** One paper was accepted by Knowledge-Based Systems.\
-**[09/2020]** One paper was accepted by Neurocomputing.\
-**[05/2020]** One paper was accepted by KDD 2020.
+**[10/2023]** One paper was accepted by **Findings of EMNLP 2023**. Thanks to all my collaborators!\
+**[09/2023]** One paper was accepted by **NeurIPS 2023**. Thanks to all my collaborators!\
+**[08/2023]** Two papers were accepted by **IEEE TKDE**. Thanks to all my collaborators!\
+**[04/2023]** One paper was accepted by **IJCAI 2023**. Thanks to all my collaborators!\
+**[12/2022]** One paper was accepted by **IEEE TKDE**. Thanks to all my collaborators!\
+**[11/2022]** One paper was accepted by **AAAI 2023**. Thanks to all my collaborators!\
+**[03/2022]** One paper was accepted by **IEEE TKDE**. Thanks to all my collaborators!\
+**[01/2022]** One paper was accepted by **WWW 2022**. Thanks to all my collaborators!\
+**[01/2022]** One paper was accepted by **Knowledge-Based Systems**. Thanks to all my collaborators!\
+**[04/2021]** One paper was accepted by **Knowledge-Based Systems**. Thanks to all my collaborators!\
+**[09/2020]** One paper was accepted by **Neurocomputing**. Thanks to all my collaborators!\
+**[05/2020]** One paper was accepted by **KDD 2020**. Thanks to all my collaborators!
 
 
 Publications
 ======
-### 2023
+### In the Year of 2023
 
-[C1] ***Le Yu***, Leilei Sun, Bowen Du, Weifeng Lv. 
+[C1] Tao Zou*, ***Le Yu****, Yifei Huang, Leilei Sun, Bowen Du. 
+  **Pretraining Language Models with Text-Attributed Heterogeneous Graphs**.
+  EMNLP 2023 (Findings).
+  [Paper](https://arxiv.org/abs/2310.12580) 
+  [Code](https://github.com/hope-rita/thlm)
+
+[C2] ***Le Yu***, Leilei Sun, Bowen Du, Weifeng Lv. 
   **Towards Better Dynamic Graph Learning: New Architecture and Unified Library**.
   NeurIPS 2023 (Poster).
   [Paper](https://arxiv.org/abs/2303.13047) 
   [Code](https://github.com/yule-BUAA/DyGLib)
 
-[C2] ***Le Yu***, Zihang Liu, Tongyu Zhu, Leilei Sun, Bowen Du, Weifeng Lv. 
+[C3] ***Le Yu***, Zihang Liu, Tongyu Zhu, Leilei Sun, Bowen Du, Weifeng Lv. 
   **Predicting Temporal Sets with Simplified Fully Connected Networks**.
   AAAI 2023 (Oral).
   [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25609) 
   [Code](https://github.com/yule-BUAA/SFCNTSP)
 
-[C3] Xiaodong Lu, Shuo Ji, ***Le Yu***, Leilei Sun, Bowen Du, Tongyu Zhu. 
+[C4] Xiaodong Lu, Shuo Ji, ***Le Yu***, Leilei Sun, Bowen Du, Tongyu Zhu. 
   **Continuous-Time Graph Learning for Cascade Popularity Prediction**.
   IJCAI 2023.
   [Paper](https://www.ijcai.org/proceedings/2023/0247) 
@@ -73,6 +78,12 @@ Publications
   IEEE TKDE.
   [Paper](https://ieeexplore.ieee.org/document/10243551) 
   [Code](https://github.com/Hope-Rita/EDGPAT)
+
+[arXiv] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
+  **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch**.
+  arXiv 2023.
+  [Paper](https://arxiv.org/abs/2311.03099) 
+  [Code](https://github.com/yule-BUAA/MergeLM)
 
 [arXiv] ***Le Yu***.
   **An Empirical Evaluation of Temporal Graph Benchmark**.
@@ -92,7 +103,7 @@ Publications
   [Paper](https://arxiv.org/abs/2308.11204) 
   [Code](https://github.com/lzhmarkk/simmst)
 
-### 2022
+### In the Year of 2022
 [C1] ***Le Yu***, Guanghui Wu, Leilei Sun, Bowen Du, Weifeng Lv.
   **Element-guided Temporal Graph Representation Learning for Temporal Sets Prediction**.
   Proceedings of the ACM Web Conference 2022 **(WWW 2022)**.
@@ -117,14 +128,14 @@ Publications
   [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122000508) 
   [Code](https://github.com/LiuZH-19/Ada-STNet)  
   
-### 2021
+### In the Year of 2021
 [J1] Nannan Shi, ***Le Yu***, Leilei Sun, Lihua Wang, Chunming Lin, Ruixing Zhang.
   **Deep Heterogeneous Network for Temporal Set Prediction**.
   Knowledge-Based Systems.
   [Paper](https://www.sciencedirect.com/science/article/pii/S0950705121003026) 
   [Code](https://github.com/xinlingdedeng/DHNTSP)
   
-### 2020
+### In the Year of 2020
 [C1] ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv. 
   **Predicting Temporal Sets with Deep Neural Networks**. 
   (KDD 2020).
@@ -144,18 +155,40 @@ Publications
   [Code](https://github.com/yule-BUAA/HGConv)  
 
 
+Educations
+======
+* *Sept. 2019 - now.* Ph.D. student, School of Computer Science and Engineering, Beihang University\
+  Supervisor: Professor [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm)
+* *Sept. 2015 - Jun. 2019* B.S., School of Computer Science and Engineering, Beihang University
+
+
 Honors Awarded
 ======
-* 2023 National Scholarship for Graduate students
-* 2023 Huawei Scholarship
-* 2020 National Scholarship for Graduate students
-* 2019 Graduate Freshman Scholarship
+* 2020 & 2023 **National Scholarship for Graduate Students**, Beihang University
+* 2023 **Huawei Scholarship**, Beihang University
+* 2023 **Guorui Scholarship**, Beihang University
+* 2019 **Graduate Freshman Scholarship**, Beihang University
+* **Merit Student** & **Outstanding Graduate Student** (2020, 2022, 2023), Beihang University
 
-Academic Services
+
+Professional Services
 ======
-* **PC member for Conferences:**\
+* **PC Member (or Reviewer):**\
   AAAI 2023, 2024; 
-  LOG 2022, 2023
-  
-* **Reviewer for Journals:**\
+  LOG 2022, 2023;
   ACM TOIS, ACM TKDD, IEEE TNNLS, Neural Networks
+
+* **Assistant PC Member (or Reviewer):**\
+  SIGIR 2020, 2021, 2022, 2023;
+  KDD 2020, 2021, 2022, 2023;
+  AAAI 2020, 2021, 2022;
+  IJCAI 2021, 2022, 2023;
+  CIKM 2020, 2021; 
+  ICDM 2021;
+  WSDM 2021, 2022;
+  TKDE, TITS, TIST, Neurocomputing, Knowledge-Based Systems
+  
+
+Experiences
+======
+* *Jun. 2023 - now.*, Research Intern, DAMO Academy, Alibaba Group
