@@ -12,12 +12,12 @@ redirect_from:
 Brief Bio
 ======
 I am currently a fifth-year computer science Ph.D. student in the School of Computer Science and Engineering at Beihang University, 
-supervised by [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm). 
+supervised by Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm). 
 I received the B.S. degree in the School of Computer Science and Engineering at Beihang University in 2019. 
 
 Spatio-temporal graphs can abstractly represent most things in reality. 
 I devote myself to designing general neural networks for learning on spatio-temporal graphs, and using the learned representations to empower various scenarios.
-My research interests include (spatio-temporal) graph neural networks, language models, recommendation systems, traffic forecasting, et al.
+My research interests include (spatio-temporal) graph neural networks, language models, recommender systems, traffic forecasting, et al.
 I am strongly self-motivated and aim to pursue cutting-edge AI research.
 I have published several peer-reviewed papers in top venues such as NeurIPS, KDD, WWW, IEEE TKDE, EMNLP, AAAI, and IJCAI.
 I have also served as a PC member/reviewer for conferences/journals like AAAI, LOG, TOIS, TKDD, TNNLS, and Neural Networks.
@@ -43,6 +43,12 @@ Publications
 ======
 ### In the Year of 2023
 
+[arXiv1] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
+  **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch**.
+  arXiv 2023.
+  [Paper](https://arxiv.org/abs/2311.03099) 
+  [Code](https://github.com/yule-BUAA/MergeLM)
+
 [C1] Tao Zou*, ***Le Yu****, Yifei Huang, Leilei Sun, Bowen Du. 
   **Pretraining Language Models with Text-Attributed Heterogeneous Graphs**.
   EMNLP 2023 (Findings).
@@ -54,6 +60,12 @@ Publications
   NeurIPS 2023 (Poster).
   [Paper](https://arxiv.org/abs/2303.13047) 
   [Code](https://github.com/yule-BUAA/DyGLib)
+
+[arXiv2] ***Le Yu***.
+  **An Empirical Evaluation of Temporal Graph Benchmark**.
+  arXiv 2023.
+  [Paper](https://arxiv.org/abs/2307.12510) 
+  [Code](https://github.com/yule-BUAA/DyGLib_TGB)
 
 [C3] ***Le Yu***, Zihang Liu, Tongyu Zhu, Leilei Sun, Bowen Du, Weifeng Lv. 
   **Predicting Temporal Sets with Simplified Fully Connected Networks**.
@@ -79,25 +91,13 @@ Publications
   [Paper](https://ieeexplore.ieee.org/document/10243551) 
   [Code](https://github.com/Hope-Rita/EDGPAT)
 
-[arXiv] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
-  **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch**.
-  arXiv 2023.
-  [Paper](https://arxiv.org/abs/2311.03099) 
-  [Code](https://github.com/yule-BUAA/MergeLM)
-
-[arXiv] ***Le Yu***.
-  **An Empirical Evaluation of Temporal Graph Benchmark**.
-  arXiv 2023.
-  [Paper](https://arxiv.org/abs/2307.12510) 
-  [Code](https://github.com/yule-BUAA/DyGLib_TGB)
-
-[arXiv] Tao Zou, ***Le Yu***, Leilei Sun, Bowen Du, Deqing Wang, Fuzhen Zhuang.
+[arXiv3] Tao Zou, ***Le Yu***, Leilei Sun, Bowen Du, Deqing Wang, Fuzhen Zhuang.
   **Adaptive Taxonomy Learning and Historical Patterns Modelling for Patent Classification**.
   arXiv 2023.
   [Paper](https://arxiv.org/abs/2308.05385) 
   [Code](https://github.com/hope-rita/patcls)
 
-[arXiv] Zihang Liu, ***Le Yu***, Tongyu Zhu, Leiei Sun.
+[arXiv4] Zihang Liu, ***Le Yu***, Tongyu Zhu, Leiei Sun.
   **A Simple Framework for Multi-mode Spatial-Temporal Data Modeling**.
   arXiv 2023.
   [Paper](https://arxiv.org/abs/2308.11204) 
@@ -148,17 +148,17 @@ Publications
   [Paper](https://www.sciencedirect.com/science/article/pii/S092523122031451X) 
   [Code](https://github.com/yule-BUAA/DSTGCN)  
 
-[arXiv] ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv, Hui Xiong. 
+[arXiv1] ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv, Hui Xiong. 
   **Hybrid Micro/Macro Level Convolution for Heterogeneous Graph Learning**.
-  **(arXiv 2020)**.
+  arXiv 2020.
   [Paper](https://arxiv.org/abs/2012.14722) 
   [Code](https://github.com/yule-BUAA/HGConv)  
 
 
-Educations
+Education
 ======
 * *Sept. 2019 - now.* Ph.D. student, School of Computer Science and Engineering, Beihang University\
-  Supervisor: Professor [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm)
+  Supervisor: Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm)
 * *Sept. 2015 - Jun. 2019* B.S., School of Computer Science and Engineering, Beihang University
 
 
@@ -171,12 +171,18 @@ Honors Awarded
 * **Merit Student** & **Outstanding Graduate Student** (2020, 2022, 2023), Beihang University
 
 
+Invited Talks
+======
+- [**Predicting Temporal Sets with Deep Neural Networks**](https://www.lamda.nju.edu.cn/conf/mla20/poster.html) \
+-- The 18th China Symposium on Machine Learning and Applications (MLA'20) at Nov. 8th, 2020
+
+
 Professional Services
 ======
 * **PC Member (or Reviewer):**\
   AAAI 2023, 2024; 
   LOG 2022, 2023;
-  ACM TOIS, ACM TKDD, IEEE TNNLS, Neural Networks
+  ACM TOIS; ACM TKDD; IEEE TNNLS; Neural Networks
 
 * **Assistant PC Member (or Reviewer):**\
   SIGIR 2020, 2021, 2022, 2023;
@@ -186,7 +192,7 @@ Professional Services
   CIKM 2020, 2021; 
   ICDM 2021;
   WSDM 2021, 2022;
-  TKDE, TITS, TIST, Neurocomputing, Knowledge-Based Systems
+  IEEE TKDE; IEEE TITS; ACM TIST; Neurocomputing; Knowledge-Based Systems
   
 
 Experiences
