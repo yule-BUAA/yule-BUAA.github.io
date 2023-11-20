@@ -16,11 +16,22 @@ supervised by Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm).
 I received the B.S. degree in the School of Computer Science and Engineering at Beihang University in 2019. 
 
 Spatio-temporal graphs can abstractly represent most things in reality. 
-I devote myself to designing general neural networks for learning on spatio-temporal graphs, and using the learned representations to empower various scenarios.
+I devote myself to designing neural networks for representation learning on spatio-temporal graphs, and using the learned representations to empower various scenarios.
 My research interests include (spatio-temporal) graph neural networks, language models, recommender systems, traffic forecasting, et al.
 I am strongly self-motivated and aim to pursue cutting-edge AI research.
 I have published several peer-reviewed papers in top venues such as NeurIPS, KDD, WWW, IEEE TKDE, EMNLP, AAAI, and IJCAI.
 I have also served as a PC member/reviewer for conferences/journals like AAAI, LOG, TOIS, TKDD, TNNLS, and Neural Networks.
+
+
+Currently, I am interested in pursuing two main research directions. 
+* Explore the alignment of language models by studying the properties of their parameters. This includes
+  1. identifying and extracting key parameters that determine the success of Supervised Fine-Tuning (SFT)
+  2. controlling the roles of parameters during SFT for better interpretability
+  3. developing new SFT methods to build general language models that can handle various NLP tasks.
+* Design domain-specific (large) language models that can cover fields like spatio-temporal graph networks and recommender systems. This involves
+  1. incorporating domain-specific and factual knowledge into language models
+  2. developing language models to capture dynamics and topologies in graphs
+  3. encoding user information to obtain personalized language models.
 
 
 News
