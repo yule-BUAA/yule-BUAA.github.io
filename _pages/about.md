@@ -25,14 +25,15 @@ I have also served as a PC member/reviewer for conferences/journals like AAAI, L
 
 Currently, I am interested in pursuing two main research directions. 
 * Explore the alignment of language models by studying the properties of their parameters. This includes
-  1. identifying and extracting key parameters that determine the success of Supervised Fine-Tuning (SFT)
-  2. controlling the roles of parameters during SFT for better interpretability
+  1. identifying and extracting key parameters that determine the success of Supervised Fine-Tuning (SFT);
+  2. controlling the roles of parameters during SFT for better interpretability;
   3. developing new SFT methods to build general language models that can handle various NLP tasks.
 * Design domain-specific (large) language models that can cover fields like spatio-temporal graph networks and recommender systems. This involves
-  1. incorporating domain-specific and factual knowledge into language models
-  2. developing language models to capture dynamics and topologies in graphs
+  1. incorporating domain-specific and factual knowledge into language models;
+  2. developing language models to capture dynamics and topologies in graphs;
   3. encoding user information to obtain personalized language models.
 
+Now, I am **looking for a postdoctoral position (starting in 2024**). Please contact me by email at yule@buaa.edu.cn is interested.
 
 News
 ======
