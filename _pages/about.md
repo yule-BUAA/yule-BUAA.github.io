@@ -33,7 +33,7 @@ Currently, I am interested in pursuing two main research directions.
   2. developing language models to capture dynamics and topologies in graphs;
   3. encoding user information to obtain personalized language models.
 
-Now, I am **looking for a postdoctoral position (starting in 2024**). Please contact me by email at yule@buaa.edu.cn is interested.
+Now, I am **looking for a postdoctoral position (starting in 2024**). Please contact me by email at yule@buaa.edu.cn if interested.
 
 News
 ======
