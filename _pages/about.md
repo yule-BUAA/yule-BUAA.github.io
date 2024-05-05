@@ -15,28 +15,19 @@ I am currently a fifth-year computer science Ph.D. student in the School of Comp
 supervised by Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm). 
 I received the B.S. degree in the School of Computer Science and Engineering at Beihang University in 2019. 
 
-Spatio-temporal graphs can abstractly represent most things in reality. 
-I devote myself to designing neural networks for representation learning on spatio-temporal graphs, and using the learned representations to empower various scenarios.
-My research interests include (spatio-temporal) graph neural networks, language models, recommender systems, traffic forecasting, et al.
+Spatio-temporal data can abstractly represent many things in reality. 
+I focus on designing neural networks for representation learning on spatio-temporal data and using the learned representations to empower various scenarios. 
+My research interests include (large) language models, graph neural networks, recommender systems, etc. 
 I am strongly self-motivated and aim to pursue cutting-edge AI research.
-I have published several peer-reviewed papers in top venues such as NeurIPS, KDD, WWW, IEEE TKDE, EMNLP, AAAI, and IJCAI.
-I have also served as a PC member/reviewer for conferences/journals like AAAI, LOG, TOIS, TKDD, TNNLS, and Neural Networks.
+I have published several peer-reviewed papers in top venues like ICML, NeurIPS, KDD, WWW, IEEE TKDE, EMNLP, AAAI, and IJCAI.
+I have also served as a PC member/reviewer for conferences/journals like AAAI, LOG, ACM TOIS, ACM TKDD, IEEE TKDE, IEEE TNNLS, and Neural Networks.
 
 
-Currently, I am interested in pursuing two main research directions. 
-* Explore the alignment of language models by studying the properties of their parameters. This includes
-  1. identifying and extracting key parameters that determine the success of Supervised Fine-Tuning (SFT);
-  2. controlling the roles of parameters during SFT for better interpretability;
-  3. developing new SFT methods to build general language models that can handle various NLP tasks.
-* Design domain-specific (large) language models that can cover fields like spatio-temporal graph networks and recommender systems. This involves
-  1. incorporating domain-specific and factual knowledge into language models;
-  2. developing language models to capture dynamics and topologies in graphs;
-  3. encoding user information to obtain personalized language models.
-
-Now, I am **looking for a postdoctoral position (starting in 2024**). Please contact me by email at yule@buaa.edu.cn if interested.
+Now, I am **looking for a postdoctoral position** (starting in the second half of 2024).
 
 News
 ======
+**[05/2024]** One paper was accepted by **ICML 2024**. Thanks to all my collaborators!\
 **[10/2023]** One paper was accepted by **Findings of EMNLP 2023**. Thanks to all my collaborators!\
 **[09/2023]** One paper was accepted by **NeurIPS 2023**. Thanks to all my collaborators!\
 **[08/2023]** Two papers were accepted by **IEEE TKDE**. Thanks to all my collaborators!\
@@ -53,13 +44,27 @@ News
 
 Publications
 ======
-### In the Year of 2023
+### In the Year of 2024
 
-[arXiv1] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
-  **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch**.
-  arXiv 2023.
+[C1] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
+  **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch**. 
+  ICML 2024.
   [Paper](https://arxiv.org/abs/2311.03099) 
   [Code](https://github.com/yule-BUAA/MergeLM)
+
+[J1] ***Le Yu***, Zihang Liu, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv.
+  **Continuous-Time User Preference Modelling for Temporal Sets Prediction**.
+  IEEE TKDE.
+  [Paper](https://ieeexplore.ieee.org/document/10234655) 
+  [Code](https://github.com/yule-BUAA/CTTSP)
+
+[J2] Tao Zou, ***Le Yu***, Leilei Sun, Bowen Du, Deqing Wang, Fuzhen Zhuang.
+  **Event-based Dynamic Graph Representation Learning for Patent Application Trend Prediction**.
+  IEEE TKDE.
+  [Paper](https://ieeexplore.ieee.org/document/10243551) 
+  [Code](https://github.com/Hope-Rita/EDGPAT)
+
+### In the Year of 2023
 
 [C1] Tao Zou*, ***Le Yu****, Yifei Huang, Leilei Sun, Bowen Du. 
   **Pretraining Language Models with Text-Attributed Heterogeneous Graphs**.
@@ -73,7 +78,7 @@ Publications
   [Paper](https://arxiv.org/abs/2303.13047) 
   [Code](https://github.com/yule-BUAA/DyGLib)
 
-[arXiv2] ***Le Yu***.
+[arXiv1] ***Le Yu***.
   **An Empirical Evaluation of Temporal Graph Benchmark**.
   arXiv 2023.
   [Paper](https://arxiv.org/abs/2307.12510) 
@@ -91,37 +96,6 @@ Publications
   [Paper](https://www.ijcai.org/proceedings/2023/0247) 
   [Code](https://github.com/lxd99/CTCP)
 
-[J1] ***Le Yu***, Zihang Liu, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv.
-  **Continuous-Time User Preference Modelling for Temporal Sets Prediction**.
-  IEEE TKDE.
-  [Paper](https://ieeexplore.ieee.org/document/10234655) 
-  [Code](https://github.com/yule-BUAA/CTTSP)
-
-[J2] Tao Zou, ***Le Yu***, Leilei Sun, Bowen Du, Deqing Wang, Fuzhen Zhuang.
-  **Event-based Dynamic Graph Representation Learning for Patent Application Trend Prediction**.
-  IEEE TKDE.
-  [Paper](https://ieeexplore.ieee.org/document/10243551) 
-  [Code](https://github.com/Hope-Rita/EDGPAT)
-
-[arXiv3] Tao Zou, ***Le Yu***, Leilei Sun, Bowen Du, Deqing Wang, Fuzhen Zhuang.
-  **Adaptive Taxonomy Learning and Historical Patterns Modelling for Patent Classification**.
-  arXiv 2023.
-  [Paper](https://arxiv.org/abs/2308.05385) 
-  [Code](https://github.com/hope-rita/patcls)
-
-[arXiv4] Zihang Liu, ***Le Yu***, Tongyu Zhu, Leiei Sun.
-  **A Simple Framework for Multi-mode Spatial-Temporal Data Modeling**.
-  arXiv 2023.
-  [Paper](https://arxiv.org/abs/2308.11204) 
-  [Code](https://github.com/lzhmarkk/simmst)
-
-### In the Year of 2022
-[C1] ***Le Yu***, Guanghui Wu, Leilei Sun, Bowen Du, Weifeng Lv.
-  **Element-guided Temporal Graph Representation Learning for Temporal Sets Prediction**.
-  Proceedings of the ACM Web Conference 2022 **(WWW 2022)**.
-  [Paper](https://dl.acm.org/doi/10.1145/3485447.3512064) 
-  [Code](https://github.com/yule-BUAA/ETGNN)
-  
 [J1] ***Le Yu***, Leilei Sun, Bowen Du, Tongyu Zhu, Weifeng Lv. 
   **Label-Enhanced Graph Neural Network for Semi-supervised Node Classification**. 
   IEEE TKDE.
@@ -133,32 +107,54 @@ Publications
   IEEE TKDE.
   [Paper](https://ieeexplore.ieee.org/document/9737399) 
   [Code](https://github.com/yule-BUAA/R-HGNN)  
+
+[arXiv2] Tao Zou, ***Le Yu***, Leilei Sun, Bowen Du, Deqing Wang, Fuzhen Zhuang.
+  **Adaptive Taxonomy Learning and Historical Patterns Modelling for Patent Classification**.
+  arXiv 2023.
+  [Paper](https://arxiv.org/abs/2308.05385) 
+  [Code](https://github.com/hope-rita/patcls)
+
+[arXiv3] Zihang Liu, ***Le Yu***, Tongyu Zhu, Leiei Sun.
+  **A Simple Framework for Multi-mode Spatial-Temporal Data Modeling**.
+  arXiv 2023.
+  [Paper](https://arxiv.org/abs/2308.11204) 
+  [Code](https://github.com/lzhmarkk/simmst)
+
+### In the Year of 2022
+
+[C1] ***Le Yu***, Guanghui Wu, Leilei Sun, Bowen Du, Weifeng Lv.
+  **Element-guided Temporal Graph Representation Learning for Temporal Sets Prediction**.
+  Proceedings of the ACM Web Conference 2022 **(WWW 2022)**.
+  [Paper](https://dl.acm.org/doi/10.1145/3485447.3512064) 
+  [Code](https://github.com/yule-BUAA/ETGNN)
   
-[J3] Xuxiang Ta, Zihan Liu, Xiao Hu, ***Le Yu***, Leilei Sun, Bowen Du.
+[J1] Xuxiang Ta, Zihan Liu, Xiao Hu, ***Le Yu***, Leilei Sun, Bowen Du.
   **Adaptive Spatio-temporal Graph Neural Network for Traffic Forecasting**.
   Knowledge-Based Systems.
   [Paper](https://www.sciencedirect.com/science/article/pii/S0950705122000508) 
   [Code](https://github.com/LiuZH-19/Ada-STNet)  
   
 ### In the Year of 2021
-[J1] Nannan Shi, ***Le Yu***, Leilei Sun, Lihua Wang, Chunming Lin, Ruixing Zhang.
-  **Deep Heterogeneous Network for Temporal Set Prediction**.
-  Knowledge-Based Systems.
-  [Paper](https://www.sciencedirect.com/science/article/pii/S0950705121003026) 
-  [Code](https://github.com/xinlingdedeng/DHNTSP)
-  
-### In the Year of 2020
-[C1] ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv. 
-  **Predicting Temporal Sets with Deep Neural Networks**. 
-  (KDD 2020).
-  [Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403152) 
-  [Code](https://github.com/yule-BUAA/DNNTSP)
 
 [J1] ***Le Yu***, Bowen Du, Xiao Hu, Leilei Sun, Liangzhe Han, Weifeng Lv. 
   **Deep Spatio-temporal Graph Convolutional Network for Traffic Accident Prediction**.
   Neurocomputing.
   [Paper](https://www.sciencedirect.com/science/article/pii/S092523122031451X) 
   [Code](https://github.com/yule-BUAA/DSTGCN)  
+
+[J2] Nannan Shi, ***Le Yu***, Leilei Sun, Lihua Wang, Chunming Lin, Ruixing Zhang.
+  **Deep Heterogeneous Network for Temporal Set Prediction**.
+  Knowledge-Based Systems.
+  [Paper](https://www.sciencedirect.com/science/article/pii/S0950705121003026) 
+  [Code](https://github.com/xinlingdedeng/DHNTSP)
+  
+### In the Year of 2020
+
+[C1] ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv. 
+  **Predicting Temporal Sets with Deep Neural Networks**. 
+  (KDD 2020).
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403152) 
+  [Code](https://github.com/yule-BUAA/DNNTSP)
 
 [arXiv1] ***Le Yu***, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv, Hui Xiong. 
   **Hybrid Micro/Macro Level Convolution for Heterogeneous Graph Learning**.
@@ -194,7 +190,7 @@ Professional Services
 * **PC Member (or Reviewer):**\
   AAAI 2023, 2024; 
   LOG 2022, 2023;
-  ACM TOIS; ACM TKDD; IEEE TNNLS; Neural Networks
+  ACM TOIS; ACM TKDD; IEEE TKDE; IEEE TNNLS; Neural Networks
 
 * **Assistant PC Member (or Reviewer):**\
   SIGIR 2020, 2021, 2022, 2023;
@@ -204,9 +200,9 @@ Professional Services
   CIKM 2020, 2021; 
   ICDM 2021;
   WSDM 2021, 2022;
-  IEEE TKDE; IEEE TITS; ACM TIST; Neurocomputing; Knowledge-Based Systems
+  IEEE TITS; ACM TIST; Neurocomputing; Knowledge-Based Systems
   
 
 Experiences
 ======
-* *Jun. 2023 - now.*, Research Intern, DAMO Academy, Alibaba Group
+* *Jun. 2023 - now.*, Research Intern, Tongyi Laboratory, Alibaba Group
