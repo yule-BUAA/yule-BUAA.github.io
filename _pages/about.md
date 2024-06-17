@@ -23,7 +23,7 @@ I have published several peer-reviewed papers in top venues like ICML, NeurIPS, 
 I have also served as a PC member/reviewer for conferences/journals like AAAI, LOG, ACM TOIS, ACM TKDD, IEEE TKDE, IEEE TNNLS, and Neural Networks.
 
 
-Now, I am **looking for a postdoctoral position** (starting in the second half of 2024).
+[comment]: <> (Now, I am **looking for a postdoctoral position** &#40;starting in the second half of 2024&#41;.)
 
 News
 ======
