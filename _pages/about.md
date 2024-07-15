@@ -11,15 +11,14 @@ redirect_from:
 
 Brief Bio
 ======
-I am currently a fifth-year computer science Ph.D. student in the School of Computer Science and Engineering at Beihang University, 
-supervised by Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm). 
+I received the Ph.D. degree in the School of Computer Science and Engineering at Beihang University, under the supervision of Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm). 
 I received the B.S. degree in the School of Computer Science and Engineering at Beihang University in 2019. 
 
 Spatio-temporal data can abstractly represent many things in reality. 
 I focus on designing neural networks for representation learning on spatio-temporal data and using the learned representations to empower various scenarios. 
 My research interests include (large) language models, graph neural networks, recommender systems, etc. 
 I am strongly self-motivated and aim to pursue cutting-edge AI research.
-I have published several peer-reviewed papers in top venues like ICML, NeurIPS, KDD, WWW, IEEE TKDE, EMNLP, AAAI, and IJCAI.
+I have published several peer-reviewed papers in top venues like ICML, NeurIPS, KDD, WWW, IEEE TKDE, ACM TOIS, EMNLP, AAAI, and IJCAI.
 I have also served as a PC member/reviewer for conferences/journals like AAAI, LOG, ACM TOIS, ACM TKDD, IEEE TKDE, IEEE TNNLS, and Neural Networks.
 
 
@@ -27,19 +26,21 @@ I have also served as a PC member/reviewer for conferences/journals like AAAI, L
 
 News
 ======
-**[05/2024]** One paper was accepted by **ICML 2024**. Thanks to all my collaborators!\
-**[10/2023]** One paper was accepted by **Findings of EMNLP 2023**. Thanks to all my collaborators!\
-**[09/2023]** One paper was accepted by **NeurIPS 2023**. Thanks to all my collaborators!\
-**[08/2023]** Two papers were accepted by **IEEE TKDE**. Thanks to all my collaborators!\
-**[04/2023]** One paper was accepted by **IJCAI 2023**. Thanks to all my collaborators!\
-**[12/2022]** One paper was accepted by **IEEE TKDE**. Thanks to all my collaborators!\
-**[11/2022]** One paper was accepted by **AAAI 2023**. Thanks to all my collaborators!\
-**[03/2022]** One paper was accepted by **IEEE TKDE**. Thanks to all my collaborators!\
-**[01/2022]** One paper was accepted by **WWW 2022**. Thanks to all my collaborators!\
-**[01/2022]** One paper was accepted by **Knowledge-Based Systems**. Thanks to all my collaborators!\
-**[04/2021]** One paper was accepted by **Knowledge-Based Systems**. Thanks to all my collaborators!\
-**[09/2020]** One paper was accepted by **Neurocomputing**. Thanks to all my collaborators!\
-**[05/2020]** One paper was accepted by **KDD 2020**. Thanks to all my collaborators!
+**[06/2024]** I successfully defended my doctoral dissertation. \
+**[06/2024]** One paper was accepted by **ACM TOIS**. \
+**[05/2024]** One paper was accepted by **ICML 2024**. \
+**[10/2023]** One paper was accepted by **Findings of EMNLP 2023**. \
+**[09/2023]** One paper was accepted by **NeurIPS 2023**. \
+**[08/2023]** Two papers were accepted by **IEEE TKDE**. \
+**[04/2023]** One paper was accepted by **IJCAI 2023**. \
+**[12/2022]** One paper was accepted by **IEEE TKDE**. \
+**[11/2022]** One paper was accepted by **AAAI 2023**. \
+**[03/2022]** One paper was accepted by **IEEE TKDE**. \
+**[01/2022]** One paper was accepted by **WWW 2022**. \
+**[01/2022]** One paper was accepted by **Knowledge-Based Systems**. \
+**[04/2021]** One paper was accepted by **Knowledge-Based Systems**. \
+**[09/2020]** One paper was accepted by **Neurocomputing**. \
+**[05/2020]** One paper was accepted by **KDD 2020**.
 
 
 Publications
@@ -63,6 +64,12 @@ Publications
   IEEE TKDE.
   [Paper](https://ieeexplore.ieee.org/document/10243551) 
   [Code](https://github.com/Hope-Rita/EDGPAT)
+
+[J3] Tao Zou, ***Le Yu***, Junchen Ye, Leilei Sun, Bowen Du, Deqing Wang.
+  **Adaptive Taxonomy Learning and Historical Patterns Modelling for Patent Classification**.
+  ACM TOIS.
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3674834) 
+  [Code](https://github.com/hope-rita/patcls)
 
 ### In the Year of 2023
 
@@ -108,13 +115,7 @@ Publications
   [Paper](https://ieeexplore.ieee.org/document/9737399) 
   [Code](https://github.com/yule-BUAA/R-HGNN)  
 
-[arXiv2] Tao Zou, ***Le Yu***, Leilei Sun, Bowen Du, Deqing Wang, Fuzhen Zhuang.
-  **Adaptive Taxonomy Learning and Historical Patterns Modelling for Patent Classification**.
-  arXiv 2023.
-  [Paper](https://arxiv.org/abs/2308.05385) 
-  [Code](https://github.com/hope-rita/patcls)
-
-[arXiv3] Zihang Liu, ***Le Yu***, Tongyu Zhu, Leiei Sun.
+[arXiv2] Zihang Liu, ***Le Yu***, Tongyu Zhu, Leiei Sun.
   **A Simple Framework for Multi-mode Spatial-Temporal Data Modeling**.
   arXiv 2023.
   [Paper](https://arxiv.org/abs/2308.11204) 
