@@ -11,7 +11,7 @@ redirect_from:
 
 Brief Bio
 ======
-I received the Ph.D. degree in the School of Computer Science and Engineering at Beihang University, under the supervision of Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm). 
+I received the Ph.D. degree in the School of Computer Science and Engineering at Beihang University in 2024, under the supervision of Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm). 
 I received the B.S. degree in the School of Computer Science and Engineering at Beihang University in 2019. 
 
 Spatio-temporal data can abstractly represent many things in reality. 
