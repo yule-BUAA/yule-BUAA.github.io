@@ -189,8 +189,8 @@ Invited Talks
 Professional Services
 ======
 * **PC Member (or Reviewer):**\
-  AAAI 2023, 2024; 
-  LOG 2022, 2023;
+  AAAI 2023, 2024, 2025; 
+  LOG 2022, 2023, 2024;
   ACM TOIS; ACM TKDD; IEEE TKDE; IEEE TNNLS; Neural Networks
 
 * **Assistant PC Member (or Reviewer):**\
