@@ -166,7 +166,7 @@ Publications
 
 Education
 ======
-* *Sept. 2019 - Jun. 2024* Ph.D. student, School of Computer Science and Engineering, Beihang University\
+* *Sept. 2019 - Jun. 2024* Ph.D., School of Computer Science and Engineering, Beihang University\
   Supervisor: Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm)
 * *Sept. 2015 - Jun. 2019* B.S., School of Computer Science and Engineering, Beihang University
 
