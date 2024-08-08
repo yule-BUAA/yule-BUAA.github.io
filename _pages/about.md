@@ -26,9 +26,11 @@ I have also served as a PC member/reviewer for conferences/journals like AAAI, L
 
 News
 ======
+**[08/2024]** One paper about LLMs was available on **arXiv**. \
 **[06/2024]** I successfully defended my doctoral dissertation. \
 **[06/2024]** One paper was accepted by **ACM TOIS**. \
 **[05/2024]** One paper was accepted by **ICML 2024**. \
+**[05/2024]** One paper was accepted by **KSEM 2024**. \
 **[10/2023]** One paper was accepted by **Findings of EMNLP 2023**. \
 **[09/2023]** One paper was accepted by **NeurIPS 2023**. \
 **[08/2023]** Two papers were accepted by **IEEE TKDE**. \
@@ -48,10 +50,22 @@ Publications
 ### In the Year of 2024
 
 [C1] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
+  **Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement**. 
+  arXiv 2024.
+  [Paper](https://arxiv.org/abs/2408.03092) 
+  [Code](https://github.com/yule-BUAA/MergeLLM)
+
+[C2] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
   **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch**. 
   ICML 2024.
   [Paper](https://arxiv.org/abs/2311.03099) 
   [Code](https://github.com/yule-BUAA/MergeLM)
+
+[C3] Zihang Liu, ***Le Yu***, Weimiao Li, Tongyu Zhu, Leilei Sun.
+  **Multi-mode Spatial-Temporal Data Modeling with Fully Connected Networks**. 
+  KSEM 2024.
+  [Paper](https://www.springerprofessional.de/en/multi-mode-spatial-temporal-data-modeling-with-fully-connected-n/27395944) 
+  [Code](https://github.com/lzhmarkk/MSTFCN)
 
 [J1] ***Le Yu***, Zihang Liu, Leilei Sun, Bowen Du, Chuanren Liu, Weifeng Lv.
   **Continuous-Time User Preference Modelling for Temporal Sets Prediction**.
@@ -113,13 +127,7 @@ Publications
   **Heterogeneous Graph Representation Learning with Relation Awareness**.
   IEEE TKDE.
   [Paper](https://ieeexplore.ieee.org/document/9737399) 
-  [Code](https://github.com/yule-BUAA/R-HGNN)  
-
-[arXiv2] Zihang Liu, ***Le Yu***, Tongyu Zhu, Leiei Sun.
-  **A Simple Framework for Multi-mode Spatial-Temporal Data Modeling**.
-  arXiv 2023.
-  [Paper](https://arxiv.org/abs/2308.11204) 
-  [Code](https://github.com/lzhmarkk/simmst)
+  [Code](https://github.com/yule-BUAA/R-HGNN)
 
 ### In the Year of 2022
 
