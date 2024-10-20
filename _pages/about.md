@@ -11,22 +11,20 @@ redirect_from:
 
 Brief Bio
 ======
+I am an Algorithm Engineer of [Qwen Team, Alibaba Group](https://qwenlm.github.io/). I am primarily responsible for the alignment of the Qwen series models during the post-training phase.
 I received the Ph.D. degree in the School of Computer Science and Engineering at Beihang University in 2024, under the supervision of Prof. [Weifeng Lv](https://scse.buaa.edu.cn/info/1387/10314.htm). 
 I received the B.S. degree in the School of Computer Science and Engineering at Beihang University in 2019. 
-
-Spatio-temporal data can abstractly represent many things in reality. 
-I focus on designing neural networks for representation learning on spatio-temporal data and using the learned representations to empower various scenarios. 
-My research interests include (large) language models, graph neural networks, recommender systems, etc. 
-I am strongly self-motivated and aim to pursue cutting-edge AI research.
+ 
+I focus on designing neural networks for representation learning on spatio-temporal data (including texts, sequences, and graphs) and using the learned representations to empower various scenarios. 
+My research interests include (large) language models, graph neural networks, recommender systems, etc.
 I have published several peer-reviewed papers in top venues like ICML, NeurIPS, KDD, WWW, IEEE TKDE, ACM TOIS, EMNLP, AAAI, and IJCAI.
-I have also served as a PC member/reviewer for conferences/journals like AAAI, LOG, ACM TOIS, ACM TKDD, IEEE TKDE, IEEE TNNLS, and Neural Networks.
+I have also served as a PC member/reviewer for conferences/journals like ICLR, AAAI, LOG, ACM TOIS, ACM TKDD, IEEE TKDE, IEEE TNNLS, and Neural Networks.
 
-
-[comment]: <> (Now, I am **looking for a postdoctoral position** &#40;starting in the second half of 2024&#41;.)
 
 News
 ======
-**[08/2024]** One paper about LLMs was available on **arXiv**. \
+**[10/2024]** One paper about delta parameter analysis was available on **arXiv**. \
+**[08/2024]** One paper about merging LLMs was available on **arXiv**. \
 **[06/2024]** I successfully defended my doctoral dissertation. \
 **[06/2024]** One paper was accepted by **ACM TOIS**. \
 **[05/2024]** One paper was accepted by **ICML 2024**. \
@@ -49,19 +47,25 @@ Publications
 ======
 ### In the Year of 2024
 
-[C1] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
+[arXiv1] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
   **Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement**. 
   arXiv 2024.
   [Paper](https://arxiv.org/abs/2408.03092) 
   [Code](https://github.com/yule-BUAA/MergeLLM)
 
-[C2] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
+[arXiv2] Qiaoyu Tang, ***Le Yu***, Bowen Yu, Hongyu Lin, Keming Lu, Yaojie Lu, Xianpei Han, Le Sun.
+  **A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models**. 
+  arXiv 2024.
+  [Paper](https://arxiv.org/abs/2410.13841) 
+  [Code](https://github.com/tangqiaoyu/DeltaEditing)
+
+[C1] ***Le Yu***, Bowen Yu, Haiyang Yu, Fei Huang, Yongbin Li.
   **Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch**. 
   ICML 2024.
   [Paper](https://arxiv.org/abs/2311.03099) 
   [Code](https://github.com/yule-BUAA/MergeLM)
 
-[C3] Zihang Liu, ***Le Yu***, Weimiao Li, Tongyu Zhu, Leilei Sun.
+[C2] Zihang Liu, ***Le Yu***, Weimiao Li, Tongyu Zhu, Leilei Sun.
   **Multi-mode Spatial-Temporal Data Modeling with Fully Connected Networks**. 
   KSEM 2024.
   [Paper](https://www.springerprofessional.de/en/multi-mode-spatial-temporal-data-modeling-with-fully-connected-n/27395944) 
@@ -197,6 +201,7 @@ Invited Talks
 Professional Services
 ======
 * **PC Member (or Reviewer):**\
+  ICLR 2025;
   AAAI 2023, 2024, 2025; 
   LOG 2022, 2023, 2024;
   ACM TOIS; ACM TKDD; IEEE TKDE; IEEE TNNLS; Neural Networks
@@ -214,4 +219,5 @@ Professional Services
 
 Experiences
 ======
-* *Jun. 2023 - now.*, Research Intern, Tongyi Laboratory, Alibaba Group
+* *Jun. 2023 – Aug. 2024*, Research Intern, Tongyi Laboratory, Alibaba Group
+* *Sept. 2024 – now.*, Algorithm Engineer, Qwen Team, Alibaba Group
